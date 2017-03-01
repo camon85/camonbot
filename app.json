@@ -1,6 +1,6 @@
 {
   "name": "Start on Heroku: Scala",
-  "description": "A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.",
+  "description": "kakao auto reply bot",
   "repository": "https://github.com/camon85/camonbot",
   "image": "heroku/scala"
 }
